@@ -57,11 +57,13 @@ En este reto conoceremos los principales tipos de **navegaciones** que encontrar
 * 2 => N. LOCAL
 * 3 => N. FILTRADA
 * 4 => N. CONTEXTUAL
+* 5 => N. INLINE
 
 ![](assets/medium/imagen1.png)
 
 ![](assets/medium/imagen2.png)
 
+![](assets/medium/imagen3.png)
 
 **MarinaRh**
 
